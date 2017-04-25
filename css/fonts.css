@@ -18,9 +18,9 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Fortheenas_01 Italic';
-    src: url('../fonts/Fortheenas_01/Forteenas_01 Italic.otf') format('otf'),
-         url('../fonts/Fortheenas_01/Forteenas_01 Italic.otf') format('otf');
+    font-family: 'Fortheenas_01_Italic';
+    src: url('../fonts/Fortheenas_01/Forteenas_01_Italic.otf') format('otf'),
+         url('../fonts/Fortheenas_01/Forteenas_01_Italic.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
