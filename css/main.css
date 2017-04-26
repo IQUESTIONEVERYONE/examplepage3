@@ -1344,7 +1344,7 @@ header .logo a {
 #main-content-wrap {
 	z-index: 600;
 	position: relative;
-	background: #0e0e0e;
+	background: #CCCCCC;
 }
 
 
@@ -1401,7 +1401,7 @@ header .logo a {
 #intro .buttons .button:hover,
 #intro .buttons .button:focus {
 	border: 3px solid #f9da4f;
-	color: #f9da4f;
+	color: #3399FF;
 }
 
 #intro img {
@@ -1418,9 +1418,9 @@ header .logo a {
 	width: 100%;
 	height: 100%;
 	opacity: .5;
-	background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
-	background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
-	background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
+	background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 3, 0.8) 100%);
+	background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 4, 0.8) 100%);
+	background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 5, 0.8) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000001', endColorstr='#cc052000', GradientType=0);
 }
 
@@ -1519,7 +1519,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #features {
 	padding: 15rem 0 12rem;
-	background-color: #f9da4f;
+	background-color: #66FF33;
 	overflow: hidden;
 }
 
@@ -1538,7 +1538,7 @@ header .logo a {
 
 #features .feature-count {
 	display: block;
-	color: #ed254d;
+	color: #66FF33;
 	font-family: "roboto-bold", serif;
 	font-size: 4rem;
 	line-height: 1;
@@ -1580,7 +1580,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #infos {
-	background: #FFFFFF;
+	background: #FFOF;
 }
 
 .info-entry {
