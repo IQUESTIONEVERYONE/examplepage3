@@ -1244,7 +1244,7 @@ header .logo a {
  * off-canvas menu - (_layout.scss) 
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-	background: #111111;
+	background: #6699FF;
 	color: rgba(255, 255, 255, 0.25);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.5rem;
@@ -1354,7 +1354,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(../images/intro-bg.jpg);
+	background-image: url(../images/11039410-R3L8T8D-1000-26.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -1394,7 +1394,7 @@ header .logo a {
 
 #intro .buttons .button {
 	border: 3px solid rgba(255, 255, 255, 0.6);
-	color: white;
+	color: blue;
 	margin: 0 .9rem;
 }
 
@@ -1421,7 +1421,7 @@ header .logo a {
 	background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
 	background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
 	background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#cc000000', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000001', endColorstr='#cc052000', GradientType=0);
 }
 
 /* ------------------------------------------------------------------- 
