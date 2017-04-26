@@ -1244,7 +1244,7 @@ header .logo a {
  * off-canvas menu - (_layout.scss) 
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-	background: #6699FF;
+	background: #00FFFF;
 	color: rgba(255, 255, 255, 0.25);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.5rem;
@@ -1344,7 +1344,7 @@ header .logo a {
 #main-content-wrap {
 	z-index: 600;
 	position: relative;
-	background: #CCCCCC;
+	background: #00FFFF;
 }
 
 
