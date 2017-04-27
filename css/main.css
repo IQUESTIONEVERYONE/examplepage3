@@ -1354,7 +1354,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(../images/11039410-R3L8T8D-1000-26.jpg);
+	background-image: url(.../images/11039410-R3L8T8D-1000-26.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -1383,7 +1383,7 @@ header .logo a {
 	font-family: "domine-bold", serif;
 	font-size: 5.3rem;
 	line-height: 1.267;
-	color: #ed254d;
+	color: #000000;
 	padding: 0 12%;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
@@ -1401,7 +1401,7 @@ header .logo a {
 #intro .buttons .button:hover,
 #intro .buttons .button:focus {
 	border: 3px solid #f9da4f;
-	color: #3399FF;
+	color: #;
 }
 
 #intro img {
@@ -1519,7 +1519,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #features {
 	padding: 15rem 0 12rem;
-	background-color: #66FF33;
+	background-color: #CCFFCC;
 	overflow: hidden;
 }
 
