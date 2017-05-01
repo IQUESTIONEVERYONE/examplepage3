@@ -1142,7 +1142,7 @@ header .logo a {
 	height: 42px;
 	display: block;
 	outline: 0;
-	background: #00FF00;
+	background: #CC0033;
 	position: absolute;
 	top: 20px;
 	right: 20px;
@@ -1157,7 +1157,7 @@ header .logo a {
 
 .menu-toggle span {
 	display: block;
-	background-color: #00FF00;
+	background-color: #CC0033;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
@@ -1244,7 +1244,7 @@ header .logo a {
  * off-canvas menu - (_layout.scss) 
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-	background: #00FFFF;
+	background: #CC0033;
 	color: rgba(255, 255, 255, 0.25);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.5rem;
@@ -1354,7 +1354,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url('.../images/11039410-R3L8T8D-1000-26.jpg');
+	background-image: url(.../images/11039410-R3L8T8D-1000-26.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -1401,7 +1401,7 @@ header .logo a {
 #intro .buttons .button:hover,
 #intro .buttons .button:focus {
 	border: 3px solid #f9da4f;
-	color: #;
+	color: #00FFCC;
 }
 
 #intro img {
@@ -1580,7 +1580,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #infos {
-	background: #0000FF;
+	background: #FFCC99;
 }
 
 .info-entry {
@@ -2257,7 +2257,7 @@ header .logo a {
 }
 
 #download .button {
-	background: #FFFFFF;
+	background: #9999FF;
 	color: #001835;
 	margin: .6rem 0 1.5rem 0;
 }
