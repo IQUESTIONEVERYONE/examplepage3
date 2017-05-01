@@ -287,7 +287,7 @@ dfn[title] {
 }
 
 mark {
-	background: #FFF49B;
+	background: #BFFF00;
 	color: #000;
 }
 
@@ -1354,7 +1354,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(.../images/11039410-R3L8T8D-1000-26.jpg);
+	background-image: url('.../images/11039410-R3L8T8D-1000-26.jpg');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -1580,7 +1580,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #infos {
-	background: #FFOF;
+	background: #0000FF;
 }
 
 .info-entry {
@@ -1790,7 +1790,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #stats {
-	background: #99FFCC;
+	background: #00FFCC;
 	padding-top: 7.2rem;
 	padding-bottom: 4.8rem;
 	text-align: center;
@@ -1978,7 +1978,7 @@ header .logo a {
 
 .pricing-content .price-block .button {
 	background: #002f68;
-	color: #FFFFFF;
+	color: #FFCCCC;
 	padding: 0 5rem;
 	margin-left: auto;
 	margin-right: auto;
@@ -1987,12 +1987,12 @@ header .logo a {
 .pricing-content .price-block .button:hover,
 .pricing-content .price-block .button:focus {
 	background: #002a5e;
-	color: #FFFFFF;
+	color: #FFCCCC;
 }
 
 .pricing-content .primary {
 	background: #002f68;
-	color: #FFFFFF;
+	color: #FFCCCC;
 }
 
 .pricing-content .primary::before {
@@ -2002,7 +2002,7 @@ header .logo a {
 	line-height: 48px;
 	width: 60%;
 	text-align: center;
-	color: #FFFFFF;
+	color: #FFCCCC;
 	background: #ed254d;
 	font-family: "roboto-black", sans-serif;
 	font-size: 1.2rem;
@@ -2017,7 +2017,7 @@ header .logo a {
 }
 
 .pricing-content .primary .plan-title {
-	color: #FFFFFF;
+	color: #FFCCCC;
 }
 
 .pricing-content .primary .plan-title::after {
@@ -2025,7 +2025,7 @@ header .logo a {
 }
 
 .pricing-content .primary .plan-price {
-	color: #FFFFFF;
+	color: #FFCCCC;
 }
 
 .pricing-content .primary .price-month {
@@ -2033,7 +2033,7 @@ header .logo a {
 }
 
 .pricing-content .primary .button {
-	background: #FFFFFF;
+	background: #FFCCCC;
 	color: #001835;
 }
 
