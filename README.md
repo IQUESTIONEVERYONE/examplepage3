@@ -1,2 +1,2 @@
-# examplepage3
+# Robots 1.0
 git pages example
